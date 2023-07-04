@@ -101,5 +101,5 @@ async def on_message(message):
         else:
             await message.channel.send("An error occurred while making the text API request.")
 
-TOKEN = os.getenv('TOKEN')
+TOKEN = 'MTEyNTUxNDM1NDQ0NDQ4ODgxOA.Gus0R1.i_uzIpxSbEwb3JSqAKdHYMj5ALjoljHTK6xta8'
 client.run(TOKEN)
