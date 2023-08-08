@@ -1,3 +1,4 @@
+```
     1  sudo apt update
     2  sudo apt upgrade -y
     3  sudo apt install python3 python3-pip -y
@@ -147,3 +148,4 @@
   147  ls
   148  nano discord_bot6.py
   149  history
+```
